@@ -1,0 +1,35 @@
+#head
+{
+    display: inline-flexbox;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+    width: 400px;
+    height: 40px;
+}
+#mid
+{
+    width: 700px;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#mid1
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border: 2px solid red;
+    box-shadow: 2px 2px grey;
+    margin-left: 10px;
+}
+#mid2
+{
+    height: 20px;
+    width:20px;
+    position: absolute;
+    margin: 80px;
+    padding: 50px;
+    margin-left: 208px;
+}
